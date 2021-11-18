@@ -1,5 +1,7 @@
 # DevOps-for-Beginners
 
+Making use OF Linux OS using Vagrant box.
+
 
 Various tools contibute to make the DevOps lifeCycle.
 
