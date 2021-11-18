@@ -13,9 +13,9 @@ Various tools contibute to make the DevOps lifeCycle.
 
 --Selenium-- ---------Software testing
 
---Jenskins -----------Continous integrations
+--Jenkins -----------Continous integration
 
---Kubernetes ---------Container Ochestraton
+--Kubernetes ---------Container Ochestration
 
---Nagios --------------contininous Monitoring
+--Nagios --------------Contininous Monitoring
 
